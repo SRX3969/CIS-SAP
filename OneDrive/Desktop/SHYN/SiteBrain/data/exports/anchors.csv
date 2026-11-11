@@ -1,0 +1,23 @@
+﻿locationId,name,type,dailyVolume,volumeSource,osmRef,lat,lng
+indiranagar,Indiranagar Metro Station (Purple Line),Transit,"24,286 riders/day (Sep 2025 avg)",BMRCL station-wise ridership via RTI (OpenCity),node/6400857551,12.978333,77.638661
+indiranagar,Halasuru Metro Station (Purple Line),Transit,"10,010 riders/day (Sep 2025 avg)",BMRCL station-wise ridership via RTI (OpenCity),node/6400857552,12.976499,77.626686
+indiranagar,100ft Road High-Street Retail Spine,Commercial,"est. 18,500 shoppers/day",SiteBrain estimate,,12.979,77.641
+indiranagar,Sri Bhagavan Mahaveer Jain College,Campus,"est. 8,000 students & staff/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/59358860,12.976587,77.63429
+indiranagar,Lido Mall,Anchor Mall,"est. 18,000 visitors/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/347060424,12.973448,77.621747
+indiranagar,Ulsoor Lake Park,Recreation,"est. 6,000 walkers/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/182177279,12.985395,77.622183
+koramangala,Central Silk Board Metro (Yellow Line),Transit,"5,247 riders/day (weekday avg, Sep 2025)",BMRCL station-wise ridership via RTI (OpenCity),node/5760198212,12.916582,77.620567
+koramangala,Nexus Koramangala (Forum Mall),Anchor Mall,"est. 30,000 visitors/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/23542631,12.934586,77.611244
+koramangala,Oasis Centre,Anchor Mall,"est. 12,000 visitors/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/111996869,12.937535,77.628112
+koramangala,Jyoti Nivas Women's College,Campus,"est. 11,000 footfall/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/32290801,12.932842,77.61653
+koramangala,St. John's Medical College,Campus,"est. 9,000 staff & patients/day",SiteBrain estimate (position: OpenStreetMap ODbL),relation/15699927,12.929679,77.617127
+koramangala,Madiwala Market,Marketplace,"est. 20,000 shoppers/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/343961637,12.922951,77.623746
+hsr,Bommanahalli Metro (Yellow Line),Transit,"4,241 riders/day (weekday avg, Sep 2025)",BMRCL station-wise ridership via RTI (OpenCity),node/5760198202,12.910616,77.626478
+hsr,National Institute of Fashion Technology (NIFT),Campus,"est. 7,000 students & staff/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/232044884,12.911974,77.652731
+hsr,27th Main High Street Market Cluster,Retail Spine,"est. 12,500 pedestrians/day",SiteBrain estimate,,12.914,77.644
+hsr,Agara Lake Park,Recreation,"est. 5,000 walkers/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/610111576,12.920351,77.643156
+hsr,The Oxford College of Engineering,Campus,"est. 10,000 across Oxford cluster/day",SiteBrain estimate (position: OpenStreetMap ODbL),node/3214264917,12.902052,77.631261
+whitefield,Sri Sathya Sai Hospital Metro (Purple Line),Transit,"12,150 weekday vs 1,901 weekend riders/day (Sep 2025)",BMRCL station-wise ridership via RTI (OpenCity),node/5760197751,12.981195,77.727536
+whitefield,Pattandur Agrahara Metro (at ITPL),Transit,"14,603 weekday vs 3,343 weekend riders/day (Sep 2025)",BMRCL station-wise ridership via RTI (OpenCity),node/5760197749,12.987639,77.737772
+whitefield,Nexus Shantiniketan Mall,Anchor Mall,"est. 22,000 visitors/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/635700526,12.98953,77.728074
+whitefield,Vydehi Institute of Medical Sciences,Campus / Hospital,"est. 12,000 staff & patients/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/494678981,12.976723,77.730372
+whitefield,Park Square Mall,Anchor Mall,"est. 15,000 visitors/day",SiteBrain estimate (position: OpenStreetMap ODbL),way/124394941,12.986985,77.736415
